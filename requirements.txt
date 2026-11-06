@@ -1,2 +1,2 @@
-flask>=3.0
+streamlit>=1.40
 youtube-transcript-api>=1.0.0
